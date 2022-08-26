@@ -8,7 +8,6 @@ The table below indicates which input devices on the MKII development platform w
 Konami Sequence	↑	  ↑	 ↓	 ↓	 ←	 →	 ←	 →	 B	 A	 START
 Input Device	JOY	JOY	JOY	JOY	JOY	JOY	JOY	JOY	S1	S2	JOY DOWN
 
- 
 Konami Code Detection
 Prior to the user pressing a button or moving the joystick, the application will turn the Launchpad’s tri-color LED off.  
 When the user presses a button or moves the joystick, the blue LED is turned on to signify that user input has been detected
