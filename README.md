@@ -4,7 +4,9 @@
 
 This code utilizes the GPIO, ADC, and Timer peripherals found on the MSP432 Launchpad.
 The table below indicates which input devices on the MKII development platform will be used to input each stage of the Konami code.
+
 Konami Sequence	↑	  ↑	 ↓	 ↓	 ←	 →	 ←	 →	 B	 A	 START
+
 Input Device	JOY	JOY	JOY	JOY	JOY	JOY	JOY	JOY	S1	S2	JOY DOWN
 
 ## Konami Code Detection
